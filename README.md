@@ -100,7 +100,7 @@ Une application puissante pour l'administration Oracle, conçue pour optimiser l
 ```
 
 
-## 🚀 **Déploiement Local** <a name="déploiement-local"></a>
+##  **Déploiement Local** <a name="déploiement-local"></a>
 
 ### **Prérequis** <a name="prérequis"></a>
 
